@@ -69,5 +69,5 @@ ruby -v
 
 Desenvolvido por você durante a jornada de aprendizado na **DIO**.
 
-- **GitHub:** [@SEU_USUARIO](https://github.com/SEU_USUARIO)
-- **LinkedIn:** [Seu Nome](https://linkedin.com/in/SEU_LINKEDIN)
+- **GitHub:** [@SEU_USUARIO](https://github.com/pedrohenrizx)
+- **LinkedIn:** [Seu Nome](https://www.linkedin.com/in/pedro-henrique-moura-martins-0b16523a8/)
